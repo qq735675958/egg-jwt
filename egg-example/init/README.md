@@ -11,7 +11,7 @@ see [egg docs][egg] for more detail.
 ### Development
 
 ```bash
-$ npm install or cnpm i
+$ npm i or cnpm i or yarn i
 $ npm run dev
 $ open http://localhost:7001/
 ```
